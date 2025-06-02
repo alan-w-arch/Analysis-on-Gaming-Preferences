@@ -8,7 +8,8 @@ user experience and foster a positive gaming environment.
  
 This report analyses a comprehensive dataset of gaming habits, 
 preferences, and demographics to uncover key trends and correlations. 
-The dataset includes variables such as: 
+
+# The dataset includes variables such as: 
 • Demographics (Age, Gender) 
 • Gaming Behavior (Hours spent per week, preferred platform) 
 • Hardware Preferences (Importance of CPU/GPU/RAM) 
