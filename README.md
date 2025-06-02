@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 The gaming industry has witnessed exponential growth over the past 
 decade, driven by advancements in technology, the rise of online 
 multiplayer platforms, and increasing accessibility to high-performance 
@@ -9,7 +9,7 @@ user experience and foster a positive gaming environment.
 This report analyses a comprehensive dataset of gaming habits, 
 preferences, and demographics to uncover key trends and correlations. 
 
-# The dataset includes variables such as: 
+## The dataset includes variables such as: 
 • Demographics (Age, Gender) 
 • Gaming Behavior (Hours spent per week, preferred platform) 
 • Hardware Preferences (Importance of CPU/GPU/RAM) 
